@@ -1,0 +1,12 @@
+:root {
+  --main-color: #009688;
+  --secondary-color: #4DB6AC;
+  --error-color: #F44336;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: sans-serif;
+}
